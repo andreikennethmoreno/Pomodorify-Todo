@@ -1,3 +1,7 @@
+
+![image](https://github.com/andreikennethmoreno/Pomodorify-Todo/assets/124364969/60ba5476-686b-4163-a2f6-db54825ffe47)
+
+
 Distinctiveness and Complexity:
 
 The system now features improved distinctiveness and complexity by presenting the current task below the timer. Achieving this involved identifying the first task in the order, passing its ID through a function, and subsequently calling the task title. Additionally, to synchronize the timer counter with the highlighted task, a Pomodoro counter within the model.Todo was utilized. An accompanying function was integrated to increment the counter by one upon reaching zero. The reordering of the task list through JavaScript added further complexity, necessitating the implementation of a loop to ensure accurate sequencing. Moreover, efforts were made to ensure that the foremost task in the list retains its position upon reload, contributing to a seamless user experience. Notably, all tasks are securely stored in the database, facilitating potential user-oriented functionalities in future developments.
@@ -29,4 +33,6 @@ Advanced Features
 Dynamic Backend Connectivity: Pomodorify showcases its complexity through its intricate connection between front-end JavaScript timers and back-end Pomodoro counter, facilitating seamless communication for synchronized session management.
 
 Pomodorify redefines productivity through its advanced features and intricate backend connectivity, offering users a comprehensive solution for effective time management and task accomplishment.
+![127 0 0 1_8000_](https://github.com/andreikennethmoreno/Pomodorify-Todo/assets/124364969/2db55f06-6509-4f3a-b476-157befb26c5f)
+![127 0 0 1_8000_ (2)](https://github.com/andreikennethmoreno/Pomodorify-Todo/assets/124364969/2b7730df-ae35-4b4a-b039-c378c0952006)
 
